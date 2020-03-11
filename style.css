@@ -1,0 +1,46 @@
+html{
+	background-color: black;
+	width: 50%;
+	direction: rtl;
+}
+ .s1{
+	color: white;
+	direction: rtl;
+	position: relative;
+	margin-left: 1px;
+}
+ .s2{
+	color: white;
+	position: relative;
+	margin-right:194%;
+	margin-top: -6%;
+
+}
+ i{
+	/*background-color: white;*/
+	color: white;
+	/*background: white;*/
+	margin: 30px;
+}
+ .s3{
+     background-color: white;
+ }
+  i:hover{
+ 	background-color: white;
+ 	color: black;
+ 	<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+
+ }
+ .s4{
+ 	color:black;
+ 	margin-top: 50px;
+ 	margin-right: 28px;
+ 	background-image: linear-gradient(to left,yellow , orange);
+ 	padding: 10px 10px;
+ 	border-radius: 5%;
+ }
+ .s5{
+ 	color: white;
+ 	font-size: 20px;
+ 	margin-right: 28px;
+ }
